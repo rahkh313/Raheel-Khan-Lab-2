@@ -1,0 +1,11 @@
+c:\users\raheel.khan\source\repos\Raheel_Khan_Lab_Number_2\Raheel_Khan_Lab_Number_2\bin\Debug\netcoreapp2.0\Raheel_Khan_Lab_Number_2.deps.json
+c:\users\raheel.khan\source\repos\Raheel_Khan_Lab_Number_2\Raheel_Khan_Lab_Number_2\bin\Debug\netcoreapp2.0\Raheel_Khan_Lab_Number_2.runtimeconfig.json
+c:\users\raheel.khan\source\repos\Raheel_Khan_Lab_Number_2\Raheel_Khan_Lab_Number_2\bin\Debug\netcoreapp2.0\Raheel_Khan_Lab_Number_2.runtimeconfig.dev.json
+c:\users\raheel.khan\source\repos\Raheel_Khan_Lab_Number_2\Raheel_Khan_Lab_Number_2\bin\Debug\netcoreapp2.0\Raheel_Khan_Lab_Number_2.dll
+c:\users\raheel.khan\source\repos\Raheel_Khan_Lab_Number_2\Raheel_Khan_Lab_Number_2\bin\Debug\netcoreapp2.0\Raheel_Khan_Lab_Number_2.pdb
+c:\users\raheel.khan\source\repos\Raheel_Khan_Lab_Number_2\Raheel_Khan_Lab_Number_2\obj\Debug\netcoreapp2.0\Raheel_Khan_Lab_Number_2.csprojResolveAssemblyReference.cache
+c:\users\raheel.khan\source\repos\Raheel_Khan_Lab_Number_2\Raheel_Khan_Lab_Number_2\obj\Debug\netcoreapp2.0\Raheel_Khan_Lab_Number_2.csproj.CoreCompileInputs.cache
+c:\users\raheel.khan\source\repos\Raheel_Khan_Lab_Number_2\Raheel_Khan_Lab_Number_2\obj\Debug\netcoreapp2.0\Raheel_Khan_Lab_Number_2.AssemblyInfoInputs.cache
+c:\users\raheel.khan\source\repos\Raheel_Khan_Lab_Number_2\Raheel_Khan_Lab_Number_2\obj\Debug\netcoreapp2.0\Raheel_Khan_Lab_Number_2.AssemblyInfo.cs
+c:\users\raheel.khan\source\repos\Raheel_Khan_Lab_Number_2\Raheel_Khan_Lab_Number_2\obj\Debug\netcoreapp2.0\Raheel_Khan_Lab_Number_2.dll
+c:\users\raheel.khan\source\repos\Raheel_Khan_Lab_Number_2\Raheel_Khan_Lab_Number_2\obj\Debug\netcoreapp2.0\Raheel_Khan_Lab_Number_2.pdb
